@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoWeatherTest</string>
+
+        <string name="starDefault">Select an option</string>
+</resources>
